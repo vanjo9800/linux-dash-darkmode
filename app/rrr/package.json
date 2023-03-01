@@ -54,7 +54,7 @@
   "description": "Websocket Client & Server Library implementing the WebSocket protocol as specified in RFC 6455.",
   "devDependencies": {
     "buffer-equal": "^1.0.0",
-    "faucet": "^0.0.1",
+    "faucet": "^0.0.4",
     "gulp": "^4.0.2",
     "gulp-jshint": "^2.0.4",
     "jshint": "^2.0.0",
